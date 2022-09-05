@@ -1,0 +1,1 @@
+module.exports = process.env.PASS_HASH;
